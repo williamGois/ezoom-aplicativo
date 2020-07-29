@@ -12,6 +12,8 @@ npm install
 https://fiuzas.com.br/ezoom/ezoom.apk
 
 
+### Gradle version 6.5
+
 ### API
 
 //Lista cursos
